@@ -28,8 +28,6 @@
 			<string>KeyboardAutocorrectionLists</string>
 			<key>label</key>
 			<string>Enabled</string>
-			<key>PostNotification</key>
-			<string>com.booleanmagic.displayout.settingschanged</string>
 		</dict>
 	</array>
 	<key>title</key>
